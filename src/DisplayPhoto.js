@@ -14,6 +14,7 @@ class DisplayPhoto extends Component {
             onClick={() => this.handleIndexClick(index)}
           />
         ))}
+        <h2>hello</h2>
       </div>
     );
   }
